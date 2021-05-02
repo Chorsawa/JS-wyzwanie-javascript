@@ -16,6 +16,7 @@ function changeParagraphs(){
 
 function changeBackground(){
     colorOfBackground.style.backgroundColor = "#4f4870";
+    colorOfBackground.style.transition = "all 3s";
 }
 
 function addHighlight(){
